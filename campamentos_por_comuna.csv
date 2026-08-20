@@ -1,0 +1,192 @@
+codigo_comuna,comuna_nombre,region,campamentos,hogares
+5109,Viña del Mar,Valparaíso,106,8614.0
+1107,Alto Hospicio,Tarapacá,48,8489.0
+2101,Antofagasta,Antofagasta,92,7504.0
+5601,San Antonio,Valparaíso,31,4541.0
+3101,Copiapó,Atacama,75,4310.0
+5101,Valparaíso,Valparaíso,93,3729.0
+13302,Lampa,Metropolitana de Santiago,21,2886.0
+13201,Puente Alto,Metropolitana de Santiago,12,2027.0
+13301,Colina,Metropolitana de Santiago,10,2024.0
+13102,Cerrillos,Metropolitana de Santiago,6,2002.0
+8106,Lota,Biobío,30,1922.0
+9101,Temuco,La Araucanía,45,1533.0
+8110,Talcahuano,Biobío,29,1500.0
+10301,Osorno,Los Lagos,21,1275.0
+5801,Quilpué,Valparaíso,30,1152.0
+13401,San Bernardo,Metropolitana de Santiago,17,1095.0
+13119,Maipú,Metropolitana de Santiago,11,1077.0
+10101,Puerto Montt,Los Lagos,19,1045.0
+15101,Arica,Arica y Parinacota,9,1023.0
+5603,Cartagena,Valparaíso,12,1022.0
+8205,Curanilahue,Biobío,20,993.0
+13103,Cerro Navia,Metropolitana de Santiago,9,845.0
+8102,Coronel,Biobío,14,843.0
+14101,Valdivia,Los Ríos,12,825.0
+13115,Lo Barnechea,Metropolitana de Santiago,6,783.0
+2201,Calama,Antofagasta,6,774.0
+4102,Coquimbo,Coquimbo,17,744.0
+13110,La Florida,Metropolitana de Santiago,10,701.0
+5804,Villa Alemana,Valparaíso,16,661.0
+1101,Iquique,Tarapacá,8,636.0
+3103,Tierra Amarilla,Atacama,9,630.0
+5107,Quintero,Valparaíso,7,538.0
+5701,San Felipe,Valparaíso,7,498.0
+8101,Concepción,Biobío,11,456.0
+13122,Peñalolén,Metropolitana de Santiago,2,433.0
+8108,San Pedro de La Paz,Biobío,7,416.0
+2104,Taltal,Antofagasta,11,411.0
+4101,La Serena,Coquimbo,6,380.0
+5802,Limache,Valparaíso,4,352.0
+8206,Los Alamos,Biobío,7,324.0
+13402,Buin,Metropolitana de Santiago,6,319.0
+4203,Los Vilos,Coquimbo,1,315.0
+8111,Tomé,Biobío,13,312.0
+8202,Arauco,Biobío,9,309.0
+3304,Huasco,Atacama,5,305.0
+8301,Los Angeles,Biobío,8,304.0
+4204,Salamanca,Coquimbo,10,303.0
+13601,Talagante,Metropolitana de Santiago,8,283.0
+1401,Pozo Almonte,Tarapacá,8,283.0
+13107,Huechuraba,Metropolitana de Santiago,10,266.0
+13203,San José de Maipo,Metropolitana de Santiago,9,263.0
+6301,San Fernando,Libertador General Bernardo O'Higgins,7,251.0
+3202,Diego de Almagro,Atacama,6,250.0
+6101,Rancagua,Libertador General Bernardo O'Higgins,8,244.0
+3301,Vallenar,Atacama,4,243.0
+7102,Constitución,Maule,15,236.0
+8201,Lebu,Biobío,6,222.0
+10102,Calbuco,Los Lagos,5,221.0
+2203,San Pedro de Atacama,Antofagasta,2,217.0
+12101,Punta Arenas,Magallanes y de la Antártica Chilena,3,216.0
+7301,Curicó,Maule,2,214.0
+13604,Padre Hurtado,Metropolitana de Santiago,2,194.0
+13106,Estación Central,Metropolitana de Santiago,6,187.0
+13303,Tiltil,Metropolitana de Santiago,6,185.0
+4301,Ovalle,Coquimbo,3,175.0
+14104,Los Lagos,Los Ríos,2,173.0
+13126,Quinta Normal,Metropolitana de Santiago,5,172.0
+13605,Peñaflor,Metropolitana de Santiago,2,171.0
+14106,Mariquina,Los Ríos,5,162.0
+8304,Laja,Biobío,3,152.0
+13125,Quilicura,Metropolitana de Santiago,4,143.0
+6108,Machalí,Libertador General Bernardo O'Higgins,3,143.0
+11101,Coihaique,Aysén del General Carlos Ibáñez del Campo,4,136.0
+9208,Purén,La Araucanía,4,132.0
+9109,Loncoche,La Araucanía,1,130.0
+6115,Rengo,Libertador General Bernardo O'Higgins,5,127.0
+2301,Tocopilla,Antofagasta,3,126.0
+8203,Cañete,Biobío,2,125.0
+9202,Collipulli,La Araucanía,4,123.0
+13501,Melipilla,Metropolitana de Santiago,4,121.0
+8305,Mulchén,Biobío,3,121.0
+14108,Panguipulli,Los Ríos,5,120.0
+5502,Calera,Valparaíso,3,118.0
+10208,Quellón,Los Lagos,5,114.0
+6308,Placilla,Libertador General Bernardo O'Higgins,5,103.0
+13602,El Monte,Metropolitana de Santiago,4,100.0
+8307,Negrete,Biobío,3,99.0
+13128,Renca,Metropolitana de Santiago,3,98.0
+13116,Lo Espejo,Metropolitana de Santiago,3,95.0
+14204,Río Bueno,Los Ríos,6,94.0
+11201,Aysén,Aysén del General Carlos Ibáñez del Campo,3,91.0
+5705,Putaendo,Valparaíso,3,88.0
+6303,Chimbarongo,Libertador General Bernardo O'Higgins,5,85.0
+16101,Chillán,Ñuble,3,83.0
+3201,Chañaral,Atacama,5,82.0
+6305,Nancagua,Libertador General Bernardo O'Higgins,2,81.0
+5103,Concón,Valparaíso,2,76.0
+6110,Mostazal,Libertador General Bernardo O'Higgins,3,75.0
+13112,La Pintana,Metropolitana de Santiago,3,74.0
+5501,Quillota,Valparaíso,3,74.0
+13404,Paine,Metropolitana de Santiago,4,72.0
+6111,Olivar,Libertador General Bernardo O'Higgins,3,70.0
+13503,Curacaví,Metropolitana de Santiago,1,69.0
+9120,Villarrica,La Araucanía,2,69.0
+14201,La Unión,Los Ríos,3,66.0
+4201,Illapel,Coquimbo,3,65.0
+10201,Castro,Los Lagos,2,65.0
+5301,Los Andes,Valparaíso,3,64.0
+9112,Padre Las Casas,La Araucanía,3,63.0
+8105,Hualqui,Biobío,2,62.0
+4103,Andacollo,Coquimbo,3,61.0
+9210,Traiguén,La Araucanía,2,59.0
+13403,Calera de Tango,Metropolitana de Santiago,3,58.0
+8107,Penco,Biobío,2,58.0
+8314,Alto Biobío,Biobío,4,55.0
+10109,Puerto Varas,Los Lagos,1,54.0
+6105,Doñihue,Libertador General Bernardo O'Higgins,1,53.0
+10107,Llanquihue,Los Lagos,1,51.0
+10302,Puerto Octay,Los Lagos,2,50.0
+7308,Teno,Maule,1,50.0
+16203,Coelemu,Ñuble,4,49.0
+6117,San Vicente,Libertador General Bernardo O'Higgins,3,48.0
+7405,Retiro,Maule,3,47.0
+5402,Cabildo,Valparaíso,2,46.0
+5506,Nogales,Valparaíso,2,44.0
+16305,San Nicolás,Ñuble,3,44.0
+13505,San Pedro,Metropolitana de Santiago,1,42.0
+13104,Conchalí,Metropolitana de Santiago,3,41.0
+6116,Requínoa,Libertador General Bernardo O'Higgins,3,41.0
+13603,Isla de Maipo,Metropolitana de Santiago,2,41.0
+5604,El Quisco,Valparaíso,1,40.0
+10202,Ancud,Los Lagos,1,39.0
+16201,Quirihue,Ñuble,1,39.0
+5102,Casablanca,Valparaíso,1,38.0
+9107,Gorbea,La Araucanía,1,37.0
+10106,Los Muermos,Los Lagos,2,37.0
+4106,Vicuña,Coquimbo,1,36.0
+16102,Bulnes,Ñuble,4,36.0
+5605,El Tabo,Valparaíso,3,34.0
+9115,Pucón,La Araucanía,2,34.0
+4202,Canela,Coquimbo,1,33.0
+13124,Pudahuel,Metropolitana de Santiago,2,33.0
+5503,Hijuelas,Valparaíso,1,33.0
+3302,Alto del Carmen,Atacama,1,31.0
+13202,Pirque,Metropolitana de Santiago,1,30.0
+8310,San Rosendo,Biobío,1,30.0
+6109,Malloa,Libertador General Bernardo O'Higgins,4,30.0
+4303,Monte Patria,Coquimbo,2,29.0
+5404,Petorca,Valparaíso,2,29.0
+9104,Curarrehue,La Araucanía,2,27.0
+5401,La Ligua,Valparaíso,1,25.0
+9201,Angol,La Araucanía,1,25.0
+9106,Galvarino,La Araucanía,1,25.0
+9105,Freire,La Araucanía,1,24.0
+7101,Talca,Maule,2,23.0
+8309,Quilleco,Biobío,1,23.0
+14103,Lanco,Los Ríos,3,23.0
+5105,Puchuncaví,Valparaíso,2,21.0
+10105,Frutillar,Los Lagos,2,21.0
+16301,San Carlos,Ñuble,1,21.0
+8112,Hualpén,Biobío,1,21.0
+7104,Empedrado,Maule,1,18.0
+6201,Pichilemu,Libertador General Bernardo O'Higgins,1,18.0
+5703,Llaillay,Valparaíso,1,17.0
+6307,Peralillo,Libertador General Bernardo O'Higgins,1,16.0
+7304,Molina,Maule,1,15.0
+8204,Contulmo,Biobío,1,15.0
+9111,Nueva Imperial,La Araucanía,1,14.0
+6103,Coinco,Libertador General Bernardo O'Higgins,1,13.0
+9118,Toltén,La Araucanía,1,13.0
+14107,Paillaco,Los Ríos,1,13.0
+13127,Recoleta,Metropolitana de Santiago,1,13.0
+6106,Graneros,Libertador General Bernardo O'Higgins,1,11.0
+16103,Chillán Viejo,Ñuble,1,11.0
+11202,Cisnes,Aysén del General Carlos Ibáñez del Campo,1,10.0
+7305,Rauco,Maule,1,10.0
+10209,Quemchi,Los Lagos,1,10.0
+7408,Yerbas Buenas,Maule,2,10.0
+6310,Santa Cruz,Libertador General Bernardo O'Higgins,1,10.0
+9203,Curacautín,La Araucanía,1,10.0
+6205,Navidad,Libertador General Bernardo O'Higgins,1,9.0
+7201,Cauquenes,Maule,1,9.0
+14102,Corral,Los Ríos,1,9.0
+16204,Ninhue,Ñuble,1,9.0
+10305,Río Negro,Los Lagos,1,8.0
+9211,Victoria,La Araucanía,2,8.0
+9209,Renaico,La Araucanía,1,8.0
+9205,Lonquimay,La Araucanía,1,7.0
+9204,Ercilla,La Araucanía,1,7.0
+9116,Saavedra,La Araucanía,1,6.0
+6102,Codegua,Libertador General Bernardo O'Higgins,1,4.0
