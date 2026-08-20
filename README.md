@@ -3,8 +3,6 @@
 
 Aplicación Shiny que documenta el costo fiscal para el Estado de Chile y el costo humano para los residentes de campamentos (asentamientos informales), a partir de fuentes primarias públicas.
 
-App en producción: https://2xonyj-cristian-salinas0ochoa.shinyapps.io/Costodecampamentos/
-
 Qué es esto
 
 Segunda entrega de la serie ¿Cuánto cuesta?, un proyecto de datos independiente sin financiamiento institucional. La app cruza dos ejes:
@@ -58,5 +56,3 @@ Copyright and Use
 
 This repository is public for viewing purposes only. No permission is granted to copy, modify, redistribute, or use this code without prior written authorization.
 Cristián Salinas Ochoa — investigador independiente y periodista de datos.
-
-Licencia
